@@ -1,0 +1,104 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 0,
+  "numFailedTests": 5,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1770560372964,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Input alanına metin girdikçe hemen üstünde #output alanında metin görünüyor.",
+          "status": "failed",
+          "title": "Input alanına metin girdikçe hemen üstünde #output alanında metin görünüyor.",
+          "duration": 307,
+          "failureMessages": [
+            "Unable to find an element with the text: /1234/. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Input alanına girilen metinler #output alanında büyük harfe dönüştürülüyor.",
+          "status": "failed",
+          "title": "Input alanına girilen metinler #output alanında büyük harfe dönüştürülüyor.",
+          "duration": 269,
+          "failureMessages": [
+            "Unable to find an element with the text: /EMRE/. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Input alanına girilen metinler 10 karakterden küçükse yazı rengi royalblue oluyor",
+          "status": "failed",
+          "title": "Input alanına girilen metinler 10 karakterden küçükse yazı rengi royalblue oluyor",
+          "duration": 270,
+          "failureMessages": [
+            "Unable to find an element with the text: /EMRE/. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Input alanına girilen metinler 10 karakterden büyükse yazı rengi crimson oluyor",
+          "status": "failed",
+          "title": "Input alanına girilen metinler 10 karakterden büyükse yazı rengi crimson oluyor",
+          "duration": 262,
+          "failureMessages": [
+            "Unable to find an element with the text: /EMRE5678901/. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Reset Butonu input alanının ve #output alanındaki metni sıfırlıyor",
+          "status": "failed",
+          "title": "Reset Butonu input alanının ve #output alanındaki metni sıfırlıyor",
+          "duration": 266,
+          "failureMessages": [
+            "Unable to find an element with the text: /EMRE5678901/. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-input container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mInput\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mdata-testid\u001b[39m=\u001b[32m\"output\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: blue;\"\u001b[39m\n      \u001b[36m/>\u001b[39m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<input\u001b[39m\n          \u001b[33mdata-testid\u001b[39m=\u001b[32m\"input\"\u001b[39m\n          \u001b[33mtype\u001b[39m=\u001b[32m\"text\"\u001b[39m\n        \u001b[36m/>\u001b[39m\n        \u001b[0m \u001b[0m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetInput\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        }
+      ],
+      "startTime": 1770563034352,
+      "endTime": 1770563035726,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-hungbz/src/__tests__/Input.test.jsx"
+    }
+  ]
+}
