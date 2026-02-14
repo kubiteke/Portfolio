@@ -1,0 +1,74 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 5,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1771063955615,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " SideBarda useEffect kullanılmış ve sayfa mount olduğunda kategoriler yükleniyor.",
+          "status": "passed",
+          "title": "SideBarda useEffect kullanılmış ve sayfa mount olduğunda kategoriler yükleniyor.",
+          "duration": 152,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " useEffect ve axios import edilmiş ve kullanılmış.",
+          "status": "passed",
+          "title": "useEffect ve axios import edilmiş ve kullanılmış.",
+          "duration": 31,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " useEffect içinde axios kullanılmış.",
+          "status": "passed",
+          "title": "useEffect içinde axios kullanılmış.",
+          "duration": 36,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç değeri boş array olan bir state tanımlanmış",
+          "status": "passed",
+          "title": "Başlangıç değeri boş array olan bir state tanımlanmış",
+          "duration": 34,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CategoryList componentine categories propu ile kategoriler iletiliyor",
+          "status": "passed",
+          "title": "CategoryList componentine categories propu ile kategoriler iletiliyor",
+          "duration": 38,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1771065165497,
+      "endTime": 1771065165789,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-jpuc6t/src/__tests__/index.test.jsx"
+    }
+  ]
+}
